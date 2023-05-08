@@ -1,3 +1,5 @@
+create .env.local file and add your news api key like REACT_APP_NEWS_API='your api key'.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
